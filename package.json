@@ -1,5 +1,5 @@
 {
-  "name": "ngx-popover",
+  "name": "ng2-popover",
   "version": "0.0.16",
   "description": "Simple popover control for your angular2 applications using bootstrap3.",
   "license": "MIT",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pleerock/ngx-popover.git"
+    "url": "https://github.com/mike-shtil/ng2-popover.git"
   },
   "files": [
-    "build",
+    "build/package",
     "README.md"
   ],
   "bugs": {
